@@ -2,7 +2,7 @@
 let i = 0;
 let text1 = "Hey! Manda Sayang.";
 let text2 = "So I write some code to celebrate our 1st anniversary heheheheh."
-let speed = 100;
+let speed = 110;
 
 function typeWriter(text, para){
 	if(ok == 2){
